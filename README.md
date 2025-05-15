@@ -43,7 +43,7 @@ This project predicts employee turnover using machine learning techniques. It ai
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/employee-turnover-prediction.git
+   git clone https://github.com/shlndra/employee-turnover-prediction.git
    cd employee-turnover-prediction
    ```
 
